@@ -1,5 +1,5 @@
 # server
-Auto Installer Debian Server 8.6 ( Version 1.0.0 ) ( BETA ! )
+Auto Installer Debian Server 8.6 ( Version 0.1 ) ( BETA ! )
 
 How to use ?
 
